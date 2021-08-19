@@ -44,14 +44,13 @@ Updated at 2003. V. 10.
 | Harvest	|   what a miner will say if you order it on Ore|  
 | Special	|   anything else I found|  
 
-- The stuff I put in " " after the unit's name is said by the unit when it's built, and the whole map will hear it.
+- The stuff I put in `" "` after the unit's name is said by the unit when it's built, and the whole map will hear it.
 - I got the number of different sounds from the soundmd.ini file of the game, so the number of them is correct, that's how I know which one of them is missing.
 - About the quotes that were present in RA2 too, they are listed in the String files (*.csf) that the game uses, so as long as those files are right, the quotes are right too. If not, blame Westwood, not me.
 - If I didn't understand a word, I put ??? in the place of it. If there is a (???) after the quote, then I'm not sure about that one. If there's only a (???) and nothing else, then I totally can't understand that quote. Just one? and nothing else means that I will add that one later when I find it.
 - Again, feel free to contribute.
 
-1. Civilians
-==================
+# 1. Civilians
 
 ##  Freed Slave
 
@@ -267,8 +266,7 @@ Attack:
  - Shoot to kill.
  - Executing assignment.
 
-2. Allied Infantry
-==================
+# 2. Allied Infantry
 
 G.I.
 ----
@@ -390,16 +388,21 @@ SEAL
 ----
 "SEAL ready"
 
-Select:
+**Select:**
+
  - SEAL ready.
  - I'm your man.
  - A lil' C4 knockin' at your door.
  - Who's your daddy?
-Move:
+
+**Move:**
+
  - Hoorah!
  - Cover me.
  - How about a swim?
-Attack:
+
+**Attack:**
+
  - Enemy in my sites!
  - I got `em.
  - This is too easy.
@@ -411,44 +414,74 @@ Special:
 
 Spy
 ---
-Select:
+building infiltration cash stolen.
+
+**Select:**
+
  - Commander?
+
  - Mission sir?
+
  - Gimme a plan.
+
  - Agent ready.
-Move:
+
+**Move:**
+
  - Operation underway.
+
  - Indeed.
-Attack:
+    Attack:
+
  - Disguise ready.
-Fear:
+
+**Fear:**
+
  - They found me out!
+
  - I've been spotted!
-Special:
+
+**Special:**
+
  - Ready to infiltrate.
  - Obtaining intelligence.
 
 
 Chrono Legionnaire
 ------------------
-Select:
+**Select:**
+
  - Yes, Commander.
+
  - Already there.
+
  - I'm gone.
+
  - Pick a spot.
+
  - Without a trace.
-Move:
+
+**Move:**
+
  - Yes, Commander.
+
  - Already there.
+
  - I'm gone.
+
  - Pick a spot.
+
  - Without a trace.
-Attack:
+
+**Attack:**
+
  - They're history.
  - Deconstructing
  - Never existed.
  - Removing.
-Fear:
+
+**Fear:**
+
  - I don't have time for this!
  - Let's get outa here!
  - Cover me!
@@ -458,20 +491,25 @@ Tanya (RA2)
 -----
 "<maniacal laughter>"
 
-Select:
+**Select:**
+
  - Anytime boss.
  - You got an order?
  - Where's the party?
  - Show me the way.
  - How 'bout some action.
-Move:
+
+**Move:**
+
  - I'm there.
  - How about a target?!
  - On my way.
  - Moving out boss.
  - I'm on it.
  - Shake it baby!
-Attack:
+
+**Attack:**
+
  - Cha-Ching!
  - <maniacal laughter>
  - Locked and loaded.
@@ -487,7 +525,8 @@ Tanya (YURI)
 "Nothing can stop me!"
 "No fear - Tanya's here"
 
-Select:
+**Select:**
+
  - What's up?
  - I'm the best there is
  - Untouchable
@@ -498,25 +537,28 @@ Move:
  - Gotcha
  - Let's get to it
  - Nothing to stop me
-Attack:
+
+**Attack:**
+
  - Bag'em up
  - Yihaaa
  - <laughing>
  - Another loser
-Fear:
+
+**Fear:**
+
  - I'm hit
  - Just a scratch
  - That all you got?
  - Heyhey, watch it
-Special:
- - One short swim to Alcatraz, and I'll blow that Psychic
-    contraption sky-high!
+
+**Special:**
+
+ - One short swim to Alcatraz, and I'll blow that Psychic contraption sky-high!
  - This time, Yuris going down!
- - What? <laugh> Yeah, right, Boris is skilled. Look at me, I can
-     call in an airstrike! Please.
+ - What? <laugh> Yeah, right, Boris is skilled. Look at me, I can call in an airstrike! Please.
  - Games over Yuri, You're about to lose!
- - You know, It might be easier to sneak me across the river then
-    to get an entire army over the bridge.
+ - You know, It might be easier to sneak me across the river then to get an entire army over the bridge.
  - No problen, I'm trained to resist mind control.
  - Mind control? Yeah, right.
  - No one mind controls Tanya
@@ -524,8 +566,9 @@ Special:
  - Get outta my brain!
  - No fear, Tanya's here.
 
-3. Soviet Infantry
-==================
+
+
+# 3. Soviet Infantry
 
 Conscript
 ---------
@@ -739,8 +782,7 @@ Attack:
  - A new comrade joins us.
  - Look deeply into my eyes.
 
-4. Yuri Infantry
-================
+# 4. Yuri Infantry
 
 Initiate
 --------
@@ -923,8 +965,7 @@ Special:
  - A pathetic attempt
  - Fool. You can't control me.
 
-5. Allied Tanks
-===============
+# 5. Allied Tanks
 
 Chrono Miner
 ------------
@@ -1030,12 +1071,21 @@ Prism Tank
 ----------
 **Select:**
  - Prism tank in order, Sir
+
+   > **in order**: in a state of proper readiness or preparation or arrangement
+   >
+   > 整齐;应当发生（或提供）的;自然的;合宜的;井然有序
+
  - Dioptric manifold clear
+
  - Lens shifters in working position
+
  - Prism sensors are stable
+
  - Panels charged
 
 **Move:**
+
  - Compensating for terrain flux
  - Estimating distorsion error
  - Positional data recieved
@@ -1089,8 +1139,8 @@ Move:
  - Shows on the road
  - Loaded up and truckin'
 
-6. Soviet Tanks
-===============
+# 6. Soviet Tanks
+
 
 War Miner
 ---------
@@ -1121,15 +1171,20 @@ Harvest:
 
 Rhino Heavy Tank
 -----------------
-Select:
+**Select:**
+
  - Vehicle reporting.
  - Ready comrade.
  - Awaiting orders.
-Move:
+
+**Move:**
+
  - Location confirmed.
  - Moving.
  - Changing position.
-Attack:
+
+**Attack:**
+
  - Target sighted.
  - Encounting enemy.
  - We will bury them.
@@ -1157,6 +1212,7 @@ Flak Track /防空履带车/
  - Cathing path
 
 **Attack:**
+
  - Firing salvo
  - Flak away
  - Tear them apart
@@ -1231,8 +1287,7 @@ Move:
  - Yes comrade
  - Relocating
 
-7. Yuri Tanks
-=============
+# 7. Yuri Tanks
 
 Slave Miner
 -----------
@@ -1424,8 +1479,7 @@ Yuri MCV
  - For Yuri's army
  - I hear and obey
 
-8. Allied Air Units
-===================
+# 8. Allied Air Units
 
 Harrier
 -------
@@ -1477,8 +1531,9 @@ Nighthawk Transport
  - Clearing a path.
  - LZ is hot.
 
-9. Soviet Air Units 
-===================
+# 9. Soviet Air Units 
+
+
 
 Siege Chopper (武装直昇机)
 -------------
@@ -1567,8 +1622,7 @@ MIG (米格式飞机)
 **Special:**
  - Mission aborted!
 
-10. Yuri Air Units
-=================
+# 10. Yuri Air Units
 
 Floating Disc
 -------------
@@ -1599,8 +1653,8 @@ Floating Disc
  - Their taxes are ???
  - They will make a generous ???
 
-11. Allied Navy
-==============
+# 11. Allied Navy
+
 
 Destroyer
 ---------
@@ -1690,8 +1744,7 @@ Attack:
  - Naval airfleet engaging
  - We have a target
 
-12. Soviet Navy
-==============
+# 12. Soviet Navy
 
 Typhoon Attack Submarine
 ------------------------
@@ -1776,8 +1829,7 @@ Dreadnaught (无畏号)
  - Fire at will.
  - Close and fire!
 
-13. Yuri Navy
-============
+# 13. Yuri Navy
 
 Boomer Submarine (雷鸣级攻击潜艇)
 ----------------
@@ -1827,8 +1879,7 @@ Yuri Hovercraft
  - Yuri commands me
  - Your orders
 
-14. Special Units
-================
+# 14. Special Units
 
 Sniper /snaɪpər/
 ------
@@ -1959,16 +2010,21 @@ Demolition Truck
 ----------------
 "My truck is loaded!"
 
-Select:
+**Select:**
+
  - My truck is loaded!
  - Let's make a delivery!
  - I shall avenge us!
  - Why don't you drive.
-Move:
+
+**Move:**
+
  - One way trip.
  - (solemn) As you wish.
  - Watch out for the bumps.
-Attack:
+
+**Attack:**
+
  - For my people!
  - I am prepared to die!
  - It will be a smoking crater.
@@ -1978,19 +2034,24 @@ Attack:
 
 Tesla Tank
 ----------
-Select:
+**Select:**
+
  - Generators humming
  - Wire for destruction
  - Coils at full charge
  - I have the power
  - Reading meters
-Move:
+
+**Move:**
+
  - Positively
  - Efficient and clean
  - Maximum power!
  - That sparks my curiosity
  - Nothing wasted
-Attack:
+
+**Attack:**
+
  - Free hook-ups
  - No charge for extra power
  - Prepare for rolling blackout
