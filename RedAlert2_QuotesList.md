@@ -1,4 +1,4 @@
-# Red Alert 2: Quotes list 
+# [Red Alert 2](https://cnc.fandom.com/wiki/Command_%26_Conquer_Wiki): Quotes list 
 @(魔兽世界)[Red Alerts]
 
 
@@ -1042,7 +1042,7 @@ Attack:
  - Hittin' 'em hard
 
 
-Mirage Tank
+[Mirage Tank](https://cnc.fandom.com/wiki/Mirage_tank_(Red_Alert_2))
 -----------
 Select:
  - Mean, green, and unseen!
@@ -1067,7 +1067,7 @@ Attack:
  - Time for an ambush
 
 
-Prism Tank
+[Prism Tank](https://cnc.fandom.com/wiki/Prism_tank_(Red_Alert_2))
 ----------
 **Select:**
  - Prism tank in order, Sir
@@ -1100,7 +1100,7 @@ Prism Tank
  - Focusing light energy
 
 
-Battle Fortress
+[Battle Fortress](https://cnc.fandom.com/wiki/Battle_Fortress)
 ---------------
 Select:
  - Preparing for battle
@@ -1243,7 +1243,7 @@ V3 Rocket Launcher
  - Warhead primed
 
 
-Apocalypse /ə'pɑkəlɪps/
+[Apocalypse](https://cnc.fandom.com/wiki/Apocalypse_tank_(Red_Alert_2)) /ə'pɑkəlɪps/
 ----------
 **Select:**
  - The instrument of doom (毁灭机器；末日武器；覆灭机器)
@@ -1929,7 +1929,7 @@ Attack:
  - You call THAT armor?
 
 
-Black Eagle
+[Black Eagle](https://cnc.fandom.com/wiki/Black_Eagle)
 -----------
 **Select:**
  - Aircraft reporting.
@@ -2032,7 +2032,7 @@ Demolition Truck
  - Akkkhah!
 
 
-Tesla Tank
+[Tesla Tank](https://cnc.fandom.com/wiki/Tesla_tank_(Red_Alert_2))
 ----------
 **Select:**
 
