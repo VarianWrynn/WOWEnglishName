@@ -270,7 +270,8 @@ Attack:
 
 G.I.
 ----
-Select:
+**Select:**
+
  - Sir yes sir!
  - Ready!
  - Squared away sir!
@@ -278,64 +279,84 @@ Select:
  - How `bout some action?
  - Can do!
  - Who's next?
-Move:
+
+**Move:**
+
  - Move'n out!
  - Got it!
  - On my way!
  - Double time!
  - On the move!
  - Hooah!
-Attack:
+
+**Attack:**
+
  - Attacking!
  - You got it!
  - Enemy sighted!
  - Let's do it!
  - Diggin' in!
  - Safety first, sir!
-Fear:
+
+**Fear:**
+
  - We're pinned down!
  - We're being attacked!
 
 
 Allied Engineer
 ---------------
-Select:
+**Select:**
+
  - Engineering.
  - I have the tools.
  - I've got the knowledge.
  - Need a repair?
-Move:
+
+**Move:**
+
  - Yes sir!
  - Moving.
  - I won't be late.
-Attack:
+
+**Attack:**
+
  - Analyzing schematics.
  - Studying blue prints.
  - Got the plans right here.
-Fear:
+
+**Fear:**
+
  - Get me outa here!
  - I'm unarmed
  - <fear sounds>
-Special:
+
+**Special:**
+
  - We'll have the power up in 30 seconds, sir.
 
 
 Guardian G.I.
 -------------
-Select:
+**Select:**
+
  - Tanks are no match
  - We're uncrushable!
  - Let's show'em what we got
  - Solid as a rock Sir
  - On the mark Sir!
  - Sir, yes Sir!
-Move:
+
+**Move:**
+
  - Move!
  - Right away, Sir
  - Repositioning
  - Affermative, Sir!
  - Let's move out
-Attack:
+
+**Attack:**
+
  - He's mine
  - They want a scrap?
  - We'll take 'em
@@ -345,7 +366,9 @@ Deploy:     (unused)
  - Dig 'em in (???)
  - Fortify
  - Barricades
-Fear:
+
+**Fear:**
+
  - Their not ???ing up
  - I need a medic
  - It's too much
@@ -356,7 +379,8 @@ Fear:
 
 Rocketeer
 ---------
-Select:
+**Select:**
+
  - Rockets in the sky.
  - All Fired up!
  - Check out the view.
@@ -364,7 +388,9 @@ Select:
  - Gotta clear view, sir.
  - Ready to soar.
  - Fuel tanks are filled
-Move:
+
+**Move:**
+
  - Pushin' away.
  - Igniting boosters.
  - Riding High.
@@ -372,13 +398,17 @@ Move:
  - Got a steady flow.
  - I'll take the high road.
  - Lifting off.
-Attack:
+
+**Attack:**
+
  - He's got no place to hide.
  - I can see 'em
  - I got 'em
  - Clear out the place
  - They won't see us comin.
-Fear:
+
+**Fear:**
+
  - I'm losing compression!
  - There's too much flak!
  - My rocket's hit!
@@ -489,6 +519,8 @@ Chrono Legionnaire
 
 Tanya (RA2)
 -----
+<img src="./images/image-20210906141937473.png" alt="image-20210906141937473" style="zoom: 50%;" />
+
 "<maniacal laughter>"
 
 **Select:**
@@ -519,8 +551,6 @@ Tanya (RA2)
 Tanya (YURI)
 ------------
 "Let's Rock & Roll!"
- (the below 3 is never in the game for some reason,
-  but they should be according to the soundmd.ini file)
 "Waahoo!"
 "Nothing can stop me!"
 "No fear - Tanya's here"
@@ -532,7 +562,9 @@ Tanya (YURI)
  - Untouchable
  - I hear ya
  - I'm so good
-Move:
+
+**Move:**
+
  - Let's go
  - Gotcha
  - Let's get to it
@@ -572,21 +604,28 @@ Move:
 
 Conscript
 ---------
-Select:
+**Select:**
+
  - Waiting orders.
  - Comrad?
  - Conscipt reporting.
-Move:
+
+**Move:**
+
  - Moving out.
  - Order recieved.
  - For the Union.
  - Da!
-Attack:
+
+**Attack:**
+
  - For home country.
  - Attacking.
  - You are sure?
  - For mother Russia!
-Fear:
+
+**Fear:**
+
  - Mommy!
  - <cry>
  - We're being attacked!
@@ -594,46 +633,62 @@ Fear:
 
 Soviet Engineer
 ---------------
-Select:
+**Select:**
+
  - Engineering.
  - Tools ready.
  - I have the information.
  - Need a repair?
  - Something need fixing?
  - I know how it works.
-Move:
+
+**Move:**
+
  - Yes Commander!
  - Moving.
  - I will go.
-Attack:
+
+**Attack:**
+
  - Need a repair?
  - Examining diagrams.
-Fear:
+
+**Fear:**
+
  - Get me outa here!
  - I'm unarmed
  - <fear sounds>
-Special
+
+**Special：**
+
  - We'll have the power up in 30 seconds, sir.
 
 
 Flak Trooper
 ------------
-Select:
+**Select:**
+
  - Flak trooper reporting.
  - ready.
  - Orders comrad?
  - At least I have a job.
-Move:
+
+**Move:**
+
  - Da!
  - I am going.
  - Moving out.
  - This gun is heavy.
-Attack:
+
+**Attack:**
+
  - Flak attack!
  - This will be messy.
  - Clouds of death.
  - A little flak?
-Fear:
+
+**Fear:**
+
  - Can't see through the flak.
  - There shooting me.
  - Help me Romanov.
@@ -642,26 +697,33 @@ Fear:
 
 Tesla Trooper
 -------------
-Select:
+**Select:**
+
  - Tesla suit ready!
  - Charging up.
  - Electrodes ready!
  - Checking connection.
  - Yes comrade.
-Move:
+
+**Move:**
+
  - Going to source.
  - Moving out.
  - Yes comrade.
  - Surging forward.
  - Electrician in the field.
  - Rubber shoes in motion.
-Attack:
+
+**Attack:**
+
  - 2,000 volts coming up.
  - He's fried.
  - Completing circuit.
  - Let the juice flow.
  - Commencing Shock therapy.
-Fear:
+
+**Fear:**
+
  - Ground yourselves!
  - Reinforcements!
  - I'm hit!
