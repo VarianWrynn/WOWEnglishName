@@ -268,8 +268,12 @@ Attack:
 
 # 2. Allied Infantry
 
-G.I.
+[G.I. ](https://cnc.fandom.com/wiki/GI)(General Infantry)
 ----
+> The **G.I.** (**Government Issue** or **General Infantry**) is the basic [Allied](https://cnc.fandom.com/wiki/Allies) infantry unit in *[Command & Conquer: Red Alert 2](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_2)* and *[Yuri's Revenge](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_2:_Yuri's_Revenge)*. Along with their counterparts in other factions, G.I.s are able to [garrison](https://cnc.fandom.com/wiki/Garrisoning) civilian structures.
+
+<img src="./images/image-20210922155505930.png" alt="image-20210922155505930" style="zoom:67%;" />
+
 **Select:**
 
  - Sir yes sir!
@@ -336,8 +340,10 @@ Allied Engineer
  - We'll have the power up in 30 seconds, sir.
 
 
-Guardian G.I.
+[Guardian G.I.](https://cnc.fandom.com/wiki/Guardian_GI) （重装大兵）
 -------------
+<img src="./images/image-20210922160954399.png" alt="image-20210922160954399" style="zoom: 80%;" />
+
 **Select:**
 
  - Tanks are no match
@@ -477,8 +483,10 @@ building infiltration cash stolen.
  - Obtaining intelligence.
 
 
-Chrono Legionnaire
+[Chrono Legionnaire](https://cnc.fandom.com/wiki/Chrono_legionnaire)
 ------------------
+<img src="./images/image-20210922161240288.png" alt="image-20210922161240288" style="zoom:67%;" />
+
 **Select:**
 
  - Yes, Commander.
@@ -602,8 +610,12 @@ Tanya (YURI)
 
 # 3. Soviet Infantry
 
-Conscript
+[Conscript](https://cnc.fandom.com/wiki/Conscript_(Red_Alert_2)) /kənˈskrɪpt/
 ---------
+> 动员兵;征召兵;民兵;义务兵;征募兵
+
+<img src="./images/image-20210922155129312.png" alt="image-20210922155129312" style="zoom:80%;" />
+
 **Select:**
 
  - Waiting orders.
@@ -695,8 +707,17 @@ Flak Trooper
  - I'm just one man.
 
 
-Tesla Trooper
+[Tesla Trooper](https://cnc.fandom.com/wiki/Tesla_trooper_(Red_Alert_2))
 -------------
+> *The Soviets have taken Tesla technology to the final step: a man in a Tesla-powered suit. These soldiers are excellent at destroying tanks and also seem to be able to power up Tesla Coils for their extra energy.*
+> \- Eva
+
+<img src="./images/image-20210922155931755.png" alt="image-20210922155931755" style="zoom:80%;" />
+
+**Deployment history**
+
+Lt. [Eva Lee](https://cnc.fandom.com/wiki/Eva_Lee) briefed the [Allied commander](https://cnc.fandom.com/wiki/Allied_Commander_(Red_Alert_2)) about Tesla troopers during Operation: [Hail to the Chief](https://cnc.fandom.com/wiki/Hail_to_the_Chief), describing their power against tanks and their ability to power up Tesla coils with their extra energy. This ability was later seen during the [liberation](https://cnc.fandom.com/wiki/Operation:_Liberty) of the city.
+
 **Select:**
 
  - Tesla suit ready!
@@ -846,26 +867,35 @@ Attack:
 
 # 4. Yuri Infantry
 
-Initiate
+[Initiate](https://cnc.fandom.com/wiki/Initiate_(Yuri%27s_Revenge)) (尤里新兵)
 --------
-Select:
+<img src="./images/image-20210922153548577.png" alt="image-20210922153548577" style="zoom: 50%;" />
+
+**Select:**
+
  - Yuri is master
  - I am but a student
  - There is much to learn!
  - He has taught us well
-Move:
+
+**Move:**
+
  - Learning the path
  - Hail to the great Yuri
  - Enlighten me
  - I understand
-Attack
+
+**Attack**
+
  - ???ing flame
  - I don't need matches
  - Focusing energy!
  - Focusing energy!
  - Look! No hands!
  - Guns are too messy
-Fear:
+
+**Fear:**
+
  - Give me strength, Yuri!
  - Fire out of control!
  - It's hard to focus
@@ -900,28 +930,37 @@ Fear:
  - Hey, that hurt!
 
 
-Virus
+[Virus](https://cnc.fandom.com/wiki/Virus)
 -----
-Select:
+<img src="./images/image-20210922153057097.png" alt="image-20210922153057097" style="zoom:80%;" />
+
+**Select:**
+
  - Viral agent ready
  - Free inoculations
  - Here comes the plague
  - I am so very contagious
  - Flu shots anyone?
-Move:
+
+**Move:**
+
  - Epidemic on the move.
  - Which way is the wind blowing?
  - Nasty bug going around
  - Virus spreading
  - Just get me in range
-Attack:
+
+**Attack:**
+
  - Time to infect
  - No cure for this
  - How about a nice shot in the arm?
  - This may sting a little
  - Taste my venom
  - Mmm, better got to the clinic
-Fear:
+
+**Fear:**
+
  - I cannot hold them off
  - I need an antidote
  - I'm in to close
@@ -1080,7 +1119,7 @@ Attack:
  - Fire zone confirmed.
 
 
-Infantry Fighting Vechile
+[Infantry Fighting Vehicle](https://cnc.fandom.com/wiki/Infantry_Fighting_Vehicle)
 -------------------------
 Select:
  - Everythings made to fit
@@ -1164,20 +1203,25 @@ Attack:
 
 [Battle Fortress](https://cnc.fandom.com/wiki/Battle_Fortress)
 ---------------
-Select:
+**Select:**
+
  - Preparing for battle
  - Battle Fortress on the alert
  - Let's make a warpath
  - Takin' in close (???)
- - We will trample our enemies!
+ - We will trample **/ˈtræmpl/** our enemies!
  - Let's load up the troops
-Move:
+
+**Move:**
+
  - Nothing can stop us
  - CHARGE!!
  - Mobilizing
  - Rolling thundar!
  - Let's see some action
-Attack:
+
+**Attack:**
+
  - Open fire!
  - Fire at will
  - Wipe'em out
@@ -1186,14 +1230,17 @@ Attack:
 
 Allied MCV
 ----------
-Select:
+**Select:**
+
  - Packed up & ready
  - Materials checked and cleared
  - Blueprints ready, Sir
  - Allied schematics on hand
  - Let's set up shop
  - What's the word?
-Move:
+
+**Move:**
+
  - Wanna set up over there?
  - Let's find some flat land!
  - Location is key
@@ -1206,25 +1253,34 @@ Move:
 
 War Miner
 ---------
-Select:
+<img src="./images/image-20210922150708374.png" alt="image-20210922150708374" style="zoom:67%;" />
+
+**Select:**
+
  - War miner here
  - Pride of the working class!
  - Building Soviet economy
  - Making Russia strong!
  - We are armed!
-Move + Return to refinery:
+
+**Move + Return to refinery:**
+
  - Relocating operations
  - At once, comrade!
  - For Soviet people
  - Serving the cause
  - Da, comrade general
-Attack:
+
+**Attack:**
+
  - On the attack
  - Protect the ore!
  - Take them out!
  - They pose a threat!
  - This will show them!
-Harvest:
+
+**Harvest:**
+
  - Equal share for everyone
  - Let's keep the ore moving
  - Da, we will need that!
@@ -1253,7 +1309,7 @@ Rhino Heavy Tank
  - Attacking!
 
 
-Flak Track /防空履带车/
+[Flak Track](https://cnc.fandom.com/wiki/Flak_track) /防空履带车/
 ----------
 > Flak  [flæk]: 高射炮；抨击；高射炮火；严厉批评
 >  
@@ -1282,9 +1338,14 @@ Flak Track /防空履带车/
  - Guns loaded
 
 
-V3 Rocket Launcher
+[V3 Rocket Launche](https://cnc.fandom.com/wiki/V3_rocket_launcher)r
 ------------------
+
+
+<img src="./images/20180801164950.png" alt="img" style="zoom:67%;" />
+
 **Select:**
+
  - Ready for launch
  - Armed for destruction
  - Rockets fueled and ready
@@ -1307,7 +1368,12 @@ V3 Rocket Launcher
 
 [Apocalypse](https://cnc.fandom.com/wiki/Apocalypse_tank_(Red_Alert_2)) /ə'pɑkəlɪps/
 ----------
+> The appropriately named Apocalypse tank is a "war in a can". It can attack any ground and air targets and it’s expected to be the last unit standing.* - [Zofia](https://cnc.fandom.com/wiki/Zofia)([src](https://cnc.fandom.com/wiki/Chrono_Defense))
+
+<img src="./images/image-20210922154838814.png" alt="image-20210922154838814" style="zoom:90%;" />
+
 **Select:**
+
  - The instrument of doom (毁灭机器；末日武器；覆灭机器)
  - It is the day of judgment
  - Armageddon is here
@@ -1351,9 +1417,14 @@ Move:
 
 # 7. Yuri Tanks
 
-Slave Miner
+[Slave Miner](https://cnc.fandom.com/wiki/Slave_miner)
 -----------
-Select:
+<img src="./images/image-20210922153247457.png" alt="image-20210922153247457" style="zoom:80%;" />
+
+<img src="./images/image-20210922153332481.png" alt="image-20210922153332481" style="zoom:80%;" />
+
+**Select:**
+
  - Yuri mining facility reporting
  - Foreman here
  - Let's put these maggots to work
@@ -1361,12 +1432,16 @@ Select:
  - Ore processors working
  - My slaves are ready
  - We've got a lot of work to do
-Move:
+
+**Move:**
+
  - Slaves are cheap, hahaha
  - Mining ain't for sissy's
  - Is my shift over yet?
  - This is mans job!
-Attack:
+
+**Attack:**
+
  - This all belongs to Yuri
  - Go away thieves!
  - Get rid of these pests!
@@ -1385,7 +1460,10 @@ Undeploy:
 
 Slave Miners Slaves
 -------------------
+
+
 Select:
+
  - Can I have a potty break?
  - I've seen happier times
  - I haven't eaten anything in days
@@ -1424,19 +1502,26 @@ Harvest:            (same as for moving them)
 Special:
  - We're free! We're free!!
 
-Lasher Light Tank
+[Lasher Light Tank](https://cnc.fandom.com/wiki/Lasher_tank)
 -----------
-Select:
+<img src="./images/2021-9-220180801163732.png" alt="img" style="zoom:80%;" />
+
+**Select:**
+
  - We will puncture through
  - Lasher Tank ready
  - Yuris tank division
  - Where is battle?
-Move:
+
+**Move:**
+
  - Turn up the speed
  - Take me to frontlines
  - Yes, master Yuri
  - The hunt is on
-Attack:
+
+**Attack:**
+
  - Gonna make some scrap metal
  - We can whip 'em (???)
  - They will not escape
@@ -1499,22 +1584,29 @@ Attack buildings:
  - Maximum charge
  - Enemy locked
 
-Master Mind
+[Master Mind](https://cnc.fandom.com/wiki/Mastermind_(Yuri%27s_Revenge))
 -----------
-Select:
+<img src="./images/image-20210922152405186.png" alt="image-20210922152405186" style="zoom:67%;" />
+
+**Select:**
+
  - I am the Mastermind
  - Collective thinking
  - Enter the think tank
  - A mind is terrible thing to waste
  - ??? ready
  - Let's have a meeting of the minds
-Move:
+
+**Move:**
+
  - Mastermind on the move
  - Let's make some friends
  - Were on a diplomatic mission
  - Where are the simpletons?
  - Always looking for new ideas
-Attack:
+
+**Attack:**
+
  - Time for a brainstorm
  - This will be painless
  - Come in ???
@@ -1686,9 +1778,11 @@ MIG (米格式飞机)
 
 # 10. Yuri Air Units
 
-Floating Disc
+[Floating Disc](https://cnc.fandom.com/wiki/Floating_disc)
 -------------
 "Disc in flight!"
+
+<img src="./images/image-20210922152717128.png" alt="image-20210922152717128" style="zoom: 90%;" />
 
 **Select:**
  - Yuri's Collection Agency
@@ -1702,7 +1796,7 @@ Floating Disc
  - Spinning away!
 
 **Attack:**
- - (???)
+ - *They are but a distraction.*
  - They are in our way!
  - Laserbeam ready!
  - Set to destroy
@@ -2045,21 +2139,30 @@ Terrorist
  - I've been discovered!
 
 
-Desolator
+[Desolator](https://cnc.fandom.com/wiki/Desolator_(Red_Alert_2)) (辐射工兵)
 ---------
-Select:
+<img src="./images/image-20210922154141867.png" alt="image-20210922154141867" style="zoom: 80%;" /><img src="./images/image-20210922154211413.png" alt="image-20210922154211413" style="zoom: 80%;" />
+
+
+
+**Select:**
+
  - Desolator ready.
  -  &lt;heavy breathing>
  - Ready for melt-down.
  - Reactor ready.
  - Mercury rising.
-Move:
+
+**Move:**
+
  - Find a hot spot.
  - Scorched Earth.
  - Spread the Doom.
  - There goes the neighborhood.
  - It'll be a Silent Spring.
-Attack:
+
+**Attack:**
+
  - Tagged for extinction.
  - Make it glow.
  - Let's heat `em up.
@@ -2068,7 +2171,7 @@ Attack:
  - Let's make an oasis of death.
 
 
-Demolition Truck
+[Demolition Truck](https://cnc.fandom.com/wiki/Demolition_truck_(Red_Alert_2))
 ----------------
 "My truck is loaded!"
 
@@ -2091,11 +2194,13 @@ Demolition Truck
  - I am prepared to die!
  - It will be a smoking crater.
  - Don't wait up for me.
- - Akkkhah!
+ - *Aaaaah-kakakakaka!*
 
 
 [Tesla Tank](https://cnc.fandom.com/wiki/Tesla_tank_(Red_Alert_2))
 ----------
+<img src="./images/image-20210922153924431.png" alt="image-20210922153924431" style="zoom: 67%;" />
+
 **Select:**
 
  - Generators humming
@@ -2119,8 +2224,13 @@ Demolition Truck
  - Prepare for rolling blackout
  - Need a little boost?
 
-=====================================================
-End of list
+## [Psychic Dominator](https://cnc.fandom.com/wiki/Psychic_Dominator)
+
+<img src="./images/image-20210922153849333.png" alt="image-20210922153849333" style="zoom: 50%;" />
+
+
+
+## End of list
 
 Thanks goes out to:
  - JPC2000
