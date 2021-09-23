@@ -383,8 +383,10 @@ Deploy:     (unused)
  - They're right ontop of me
 
 
-Rocketeer
+[Rocketeer](https://cnc.fandom.com/wiki/Rocketeer)
 ---------
+<img src="./images/image-20210923101244489.png" alt="image-20210923101244489" style="zoom: 80%;" />
+
 **Select:**
 
  - Rockets in the sky.
@@ -483,7 +485,7 @@ building infiltration cash stolen.
  - Obtaining intelligence.
 
 
-[Chrono Legionnaire](https://cnc.fandom.com/wiki/Chrono_legionnaire)
+[Chrono Legionnaire](https://cnc.fandom.com/wiki/Chrono_legionnaire) /ˌliːdʒəˈner/
 ------------------
 <img src="./images/image-20210922161240288.png" alt="image-20210922161240288" style="zoom:67%;" />
 
@@ -1170,7 +1172,21 @@ Attack:
 
 [Prism Tank](https://cnc.fandom.com/wiki/Prism_tank_(Red_Alert_2))
 ----------
+*Dioptic manifolds clear.*
+
+> *It's Einstein's Prism tech on wheels. The boys at the lab call it a Prism Tank. Careful not to burn yourself!*
+> \- Eva
+
+<img src="./images/image-20210923101628450.png" alt="image-20210923101628450" style="zoom:67%;" />
+
+### Deployment history
+
+The Prism tank was developed by Professor [Albert Einstein](https://cnc.fandom.com/wiki/Albert_Einstein), who based the artillery unit off the designs of the [Prism Tower](https://cnc.fandom.com/wiki/Prism_Tower) base defense structure. It was first deployed by the Allies in ['Operation: Free Gateway'](https://cnc.fandom.com/wiki/Free_Gateway) after Special Agent [Tanya](https://cnc.fandom.com/wiki/Tanya_(Red_Alert_2)) destroyed the [Psychic Beacon](https://cnc.fandom.com/wiki/Psychic_Beacon) in St. Louis. In that operation, the Prism Tank made short work of the Soviet base and the Allies quickly recaptured the city.
+
+
+
 **Select:**
+
  - Prism tank in order, Sir
 
    > **in order**: in a state of proper readiness or preparation or arrangement
@@ -1203,6 +1219,17 @@ Attack:
 
 [Battle Fortress](https://cnc.fandom.com/wiki/Battle_Fortress)
 ---------------
+> *Commander this new allied toy is called a battle fortress. This rolling monstrosity will crush even our tanks while the men inside can fire out its many gun ports.*
+> \- Zofia([[[Deja Vu](https://cnc.fandom.com/wiki/Deja_Vu)|src]])
+>
+> Deja Vu: 时空线索；似曾相识；幻觉记忆
+>
+> ## deja vu
+>
+> Something that very few people know the true meaning of. Even though deja vu is French for "already seen", it actually is used to describe [the strange](https://www.urbandictionary.com/define.php?term=the strange) [feeling you](https://www.urbandictionary.com/define.php?term=feeling you) get when you're in a situation, and feel like you've been in the exact same situation before, but really haven't. Most people think it means the same thing happening twice, which is wrong. [Get it right](https://www.urbandictionary.com/define.php?term=Get it right) people!
+
+<img src="./images/image-20210923094904006.png" alt="image-20210923094904006" style="zoom:67%;" />
+
 **Select:**
 
  - Preparing for battle
@@ -1635,9 +1662,14 @@ Yuri MCV
 
 # 8. Allied Air Units
 
-Harrier
+[Harrier](https://cnc.fandom.com/wiki/Harrier) /'hæriə(r)]/   鹞（鹰科猛禽）(入侵者战机)
 -------
+*Like the wind.*
+
+<img src="./images/image-20210923101139043.png" alt="image-20210923101139043" style="zoom: 50%;" />
+
 **Select:**
+
  - Aircraft reporting.
  - Channel clear.
  - Destination?
@@ -1689,16 +1721,23 @@ Nighthawk Transport
 
 
 
-Siege Chopper (武装直昇机)
+[Siege Chopper](https://cnc.fandom.com/wiki/Siege_chopper) (武装直昇机)
 -------------
+> - Siege / siːdʒ/:  围攻；攻城战；不断袭击；炉底
+> - chopper / ˈtʃɒpə(r) / : informal for [helicopter](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/helicopter).  〈美俚〉搭直升机；〈美俚〉用直升机运送
+
+<img src="./images/image-20210923095652980.png" alt="image-20210923095652980" style="zoom:67%;" />
+
 **Select:**
+
  - Siege Chopper, checking in (???)
  - We got the big gun
  - Ready for deployment
  - Airborne artillery
- - All systems operational
+ - 围攻；攻城战；不断袭击；炉底All systems operational
 
 **Move:**
+
  - Moving in
  - Transporting siege weapon
  - Let's take over the area
@@ -1728,9 +1767,18 @@ Siege Chopper (武装直昇机)
  - Oh noooo!
 
 
-Kirov Airship
+[Kirov Airship](https://cnc.fandom.com/wiki/Kirov_airship_(Red_Alert_2))
 -------------
 "Kirov Reporting"
+
+> *Warning! Enemy air armada detected!*
+> \- Zofia warning the commander of incoming Yuri's Kirovs([[[Red Revolution](https://cnc.fandom.com/wiki/Red_Revolution)|src]])
+
+The **Kirov airship** is a [Soviet](https://cnc.fandom.com/wiki/Soviet_Union) anti-surface bomber zeppelin in *[Command & Conquer: Red Alert 2](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_2)* and *[Yuri's Revenge](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_2_-_Yuri's_Revenge)*.
+
+<img src="C:\Users\lee.wang\AppData\Roaming\Typora\typora-user-images\image-20210923100551417.png" alt="image-20210923100551417" style="zoom: 80%;" />
+
+<img src="./images/image-20210923100634406.png" alt="image-20210923100634406" style="zoom:67%;" />
 
 **Select:**
  - Kirov reporting.
@@ -1781,6 +1829,9 @@ MIG (米格式飞机)
 [Floating Disc](https://cnc.fandom.com/wiki/Floating_disc)
 -------------
 "Disc in flight!"
+
+> *Holy cow! Commander, we got some kind of UFO on the scope! Either it's an alien invasion or Yuri's been watching too many TV![sic]*
+> \- General Carville when seeing a floating disc for the first time
 
 <img src="./images/image-20210922152717128.png" alt="image-20210922152717128" style="zoom: 90%;" />
 
@@ -2240,3 +2291,13 @@ Thanks goes out to:
  - Olaf van der Spek, for his XCC Mixer which helped me a lot
 
 - eof
+
+
+
+## 16. Stories
+
+[*Yuri's Revenge*](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_2_-_Yuri%27s_Revenge)
+
+### Soviet Missions
+
+[Red Revolution](https://cnc.fandom.com/wiki/Red_Revolution)
